@@ -48,6 +48,8 @@ Unreal engine 4 games.
 - ~DX12 games will not work unless playable via the popular -dx11 option~
 DX12 games will now work via GPTK
 
+- Does **NOT* remove the need for a CrossOver license.
+
 ## Instructions
 
 You need to have an unmodified version of CrossOver, you can download it at:
